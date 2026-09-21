@@ -1,0 +1,11 @@
+message,prediction,spam_probability,spam_terms
+Congratulations! You have won a free prize. Claim now!,spam,0.9865060385873811,"claim, free, prize, won, congratulations"
+URGENT! You have been selected for a cash reward. Call now!,spam,0.8953502955389882,"urgent, cash, reward, selected"
+You are a winner! Click here to receive your prize.,spam,0.7914785902352536,"prize, receive, winner, click"
+FREE entry into our competition. Reply WIN to enter.,spam,0.9120978880060858,"reply, free, win, entry, enter"
+Claim your exclusive reward before the offer expires!,spam,0.8609492485902746,"claim, reward, expires, offer"
+"Hey, are we still meeting for coffee tomorrow?",ham,0.0708262578070593,
+Can you pick up some milk on your way home?,ham,0.04983371812744803,
+I'll call you when I finish work.,ham,0.0354247926866574,
+Happy birthday! Hope you have a great day.,ham,0.05204448912155831,
+The meeting has been moved to 2pm tomorrow.,ham,0.12069512902847741,
